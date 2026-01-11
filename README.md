@@ -18,6 +18,9 @@ The circuit uses a **5-bit Johnson Counter** logic design to control the sequenc
 * **Components:** 5x D-Flip Flops, Clock Source, Logic Switches, LEDs.
 * **Logic:** Sequential Shift Register behavior with manual Asynchronous Reset.
 
+## Screenshots
+
+
 ## How to Run
 1.  Download the `.pbs` file.
 2.  Open it in **Deeds Circuit Simulator**.
