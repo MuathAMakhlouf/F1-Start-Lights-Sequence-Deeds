@@ -20,6 +20,8 @@ The circuit uses a **5-bit Johnson Counter** logic design to control the sequenc
 
 ## Screenshots
 
+![Circuit Diagram](Timing-Diagram.png)
+
 
 ## How to Run
 1.  Download the `.pbs` file.
